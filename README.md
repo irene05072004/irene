@@ -1,2 +1,1 @@
-Simple html
-Just a simple document
+Just a simple HTML document
